@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Commit 2. Ohne Push.
 # SSLS - Star System Lightcurve Simulator
 # The SSLS calculates the movements and eclipses of celestial bodies and produces a video of this.<br>
 # Specify mass, radius and other properties of some stars and planets in a configuration file. Then run "ssls.py <Configfilename>" to produce the video.<br>
